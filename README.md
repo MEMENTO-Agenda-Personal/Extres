@@ -1,1 +1,2 @@
 # Extres
+Finalment tens la secció d’extres, on podràs arxivar totes les pàgines que utilitzaràs posteriorment en alguna de les parts mencionades, això inclou les pàgines diàries del planificador, les plantilles per als projectes, pàgines de llistat universal i llegenda, les pegatines per al Kanban i per a corregir espais del seguiment setmanal, i un seguit de pàgines lliures tant en blanc, amb línies d’escriptura o amb punts per a fer diagrames i taules.
